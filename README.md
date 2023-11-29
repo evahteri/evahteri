@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings 👋
+
+I am Computer Science student at the University of Helsinki. <code><img width="40" src="https://github.com/evahteri/evahteri/blob/main/Logo_University_of_Helsinki_fi.svg" alt="HY-logo" title="HY-logo"/></code>
 
 Connect with me via [Linkedin](https://www.linkedin.com/in/eero-vahteri/)!
 
